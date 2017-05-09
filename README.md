@@ -1,9 +1,9 @@
 User Guide
-I.	Set Up
-II.	Running the Program
-III.	Processing a file
-IV.	Processing text directly entered to the program
-V.	Processing the text
+1.	Set Up
+2.	Running the Program
+3.	Processing a file
+4.	Processing text directly entered to the program
+5.	Processing the text
 
 Set Up
 1.	Download the program, it is named textProcessing.jar
